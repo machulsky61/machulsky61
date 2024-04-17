@@ -7,6 +7,6 @@ Here you can find classes and subjects as well as various personal and group pro
 
 ### About Me
 - 🌱 Looking for opportunities that give me the ability to improve my skills and learn, with a focus on applying data to solve problems.
-- 💼 Currently part of a small insurance producer as a Data Analyst.
-- ~~🌶️ Big fan of Messi and the Red Hot Chili Peppers.~~
+- 💼 Data Analyst at Russo Seguros.
+- ~~🌶️ Big fan of Red Hot Chili Peppers.~~
 
