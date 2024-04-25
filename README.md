@@ -3,7 +3,7 @@
 
 ### Hi there👋
 I'm Joaquin Salvador Machulsky, a fifth-year student of the Data Science degree at the University of Buenos Aires.
-Here you can find classes and subjects as well as various personal and group projects related to Data Science field.
+Here you can find classes and subjects as well as various personal and group projects related to Data Science and Machine Learning field.
 
 ### About Me
 - 🌱 Looking for opportunities that give me the ability to improve my skills and learn, with a focus on applying data to solve problems.
