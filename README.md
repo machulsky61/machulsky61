@@ -10,10 +10,9 @@ Here, you'll find personal and group projects that showcase my journey in levera
 ---
 
 ### 📌 About Me  
-- 🤖 **Data Scientist** at NETV S.A, working on machine learning and data-driven projects.
-- 📊 **Data Analyst** at Russo Seguros, automating processes and creating actionable insights.  
+- 👨🏻‍💻 **Data Scientist** at NETV S.A, working on machine learning and data-driven projects.
 - 🌱 Continuously improving my skills and learning new technologies to apply data in impactful ways. 
-- 🧠 Focused on **Machine Learning**, **Image Processing**, and **AI Applications**.
+- 🧠 Focused on **Machine Learning**, **LLMs**, and **AI Applications**.
 - ~~🌶️ Big fan of Red Hot Chili Peppers.~~
 ---
 
