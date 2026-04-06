@@ -1,20 +1,43 @@
+[![Website](https://img.shields.io/badge/joaquinmachulsky.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joaquinmachulsky.com)
+[![LinkedIn](https://img.shields.io/badge/-JoaquinMachulsky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-machulsky/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinmachulsky@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-JoaquinMachulsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-machulsky/)](https://www.linkedin.com/in/joaquin-machulsky/)
 
+## Hey, I'm Joaquin
 
-### 👋 Hi there!  
-I'm **Joaquín Salvador Machulsky**, a final-year Data Science student at the University of Buenos Aires and a passionate professional in the fields of **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
+**AI Engineer** based in Buenos Aires & Palma de Mallorca.
 
-Here, you'll find personal and group projects that showcase my journey in leveraging data to solve complex problems. I enjoy exploring new tools and techniques to transform raw data into actionable insights.
+I build intelligent systems end-to-end — from ML model development and LLM integrations to production infrastructure with Docker, CI/CD, and cloud deployments. I care about shipping things that actually work and scaling them reliably.
 
 ---
 
-### 📌 About Me  
-- 👨🏻‍💻 **Data Scientist** at NETV S.A, working on machine learning and data-driven projects.
-- 🌱 Continuously improving my skills and learning new technologies to apply data in impactful ways. 
-- 🧠 Focused on **Machine Learning**, **LLMs**, and **AI Applications**.
-- ~~🌶️ Big fan of Red Hot Chili Peppers.~~
+### What I work with
+
+**AI & ML** — Deep Learning, NLP/NLU, LLMs, Computer Vision, MLOps  
+**Backend & Infra** — Python, FastAPI, PostgreSQL, Redis, Celery, Docker, Linux  
+**Data** — Statistical Modeling, Feature Engineering, Data Pipelines  
+**Other** — C++, Haskell, React, self-hosted infrastructure
+
 ---
 
-### 📫 Let's Connect!  
-Feel free to reach out if you'd like to collaborate or discuss data-driven solutions. I’m always excited to connect with like-minded individuals!
+### Selected projects
+
+| Project | Description |
+|---------|-------------|
+| [Clasificador-Genomas](https://github.com/machulsky61/Clasificador-Genomas) | ML research — unsupervised learning to identify genetic factors in pre-tumoral lesion prognosis |
+| [Dream-Journal](https://github.com/machulsky61/Dream-Journal) | NLP pipeline: web scraping, data curation, classification, and regression models |
+| [SOR-Method](https://github.com/machulsky61/SOR-Method) | Numerical methods for linear systems — Jacobi & SOR convergence analysis |
+| [Pop-it](https://github.com/machulsky61/Pop-it) | Game theory in Haskell — optimal winning strategy for a Nim variant |
+
+> More on my [repositories](https://github.com/machulsky61?tab=repositories) and [website](https://joaquinmachulsky.com).
+
+---
+
+### A bit more
+
+- Degree in Data Science from Universidad de Buenos Aires (UBA)
+- Currently working as an AI Engineer — building production ML systems and LLM-powered applications
+- Strong believer in learning by building — this GitHub is a mix of research, coursework, and real-world projects
+
+---
+
+*Let's talk — I'm always up for interesting problems.*
