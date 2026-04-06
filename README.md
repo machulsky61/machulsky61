@@ -4,7 +4,7 @@
 
 
 ### 👋 Hey!
-I'm **Joaquín**, AI Engineer. I like building things that work. Most of the time.
+I'm **Joaquín**. I like building things that work. Most of the time.
 
 ---
 
@@ -18,4 +18,4 @@ I'm **Joaquín**, AI Engineer. I like building things that work. Most of the tim
 ---
 
 ### 📫 Let's talk!
-If you're working on something interesting or just want to chat, hit me up.
+If you're working on something interesting or just want to chat, reach out through my [website](https://joaquinmachulsky.com) or drop me an email at contact@joaquinmachulsky.com.
