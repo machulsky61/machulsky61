@@ -11,7 +11,7 @@ I'm **Joaquín**. I like building things that work. Most of the time.
 ### 📌 About Me
 - 👨🏻‍💻 **AI Engineer** at MercadoLibre, shipping LLMs, agentic AI, and ML at scale.
 - 🎓 Master's in Data Science from Universidad de Buenos Aires.
-- 🧠 My thesis explores **AI Safety via Debate**. You can [play it here](https://ai-safety.joaquinmachulsky.com).
+- 🧠 My thesis explores **AI Safety via Debate**. You can [play it here](https://aisafety.joaquinmachulsky.com).
 - 🛠️ Self-hosted infra nerd. Docker, Linux, homelab, the whole thing.
 - ~~🌶️ Big fan of Red Hot Chili Peppers.~~
 
